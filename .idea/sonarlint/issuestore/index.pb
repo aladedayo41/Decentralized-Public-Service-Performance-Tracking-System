@@ -9,3 +9,5 @@ R
 "contracts/performance-metrics.clar,c/5/c5d55d5701117c7c6ebf261944852c9d70f7958d
 H
 contracts/reporting.clar,c/b/cb3f865f5236d2f1405a540b885a7dd2fb4b4adf
+S
+#contracts/service-registration.clar,a/0/a06fe9299ea9a81b53800dfb4f001bf468b35a4a
